@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GottaGetPaid.Api", "GottaGetPaid.Api\GottaGetPaid.Api.csproj", "{F824042C-D32A-4408-BE64-7565206FD61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GottaGetPaid.Data", "GottaGetPaid.Data\GottaGetPaid.Data.csproj", "{18A7948E-EE04-49AD-BB4F-8A9065E700AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F824042C-D32A-4408-BE64-7565206FD61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F824042C-D32A-4408-BE64-7565206FD61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F824042C-D32A-4408-BE64-7565206FD61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F824042C-D32A-4408-BE64-7565206FD61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A7948E-EE04-49AD-BB4F-8A9065E700AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A7948E-EE04-49AD-BB4F-8A9065E700AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A7948E-EE04-49AD-BB4F-8A9065E700AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A7948E-EE04-49AD-BB4F-8A9065E700AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D502969-2C58-4AD2-8A00-3F2A1C54A6EF}
+	EndGlobalSection
+EndGlobal
